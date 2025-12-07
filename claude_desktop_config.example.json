@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aave-v3": {
+      "command": "python",
+      "args": [
+        "/path/to/aave-mcp-server/aave_mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}

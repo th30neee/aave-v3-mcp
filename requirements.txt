@@ -1,0 +1,10 @@
+# Aave V3 MCP Server Dependencies
+
+# MCP SDK - Model Context Protocol
+mcp[cli]>=1.4.0
+
+# HTTP client for GraphQL requests
+httpx>=0.27.0
+
+# Type hints support
+typing-extensions>=4.9.0
