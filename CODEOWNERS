@@ -1,0 +1,7 @@
+# CODEOWNERS file
+# This file defines code ownership for the repository
+# Lines starting with # are comments
+
+# All files in the repository are owned by foodaka
+* @foodaka
+
